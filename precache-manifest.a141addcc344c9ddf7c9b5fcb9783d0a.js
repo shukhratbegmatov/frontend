@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68c38a7eca793c0ae2c5",
+    "revision": "71789f393464461c442e",
     "url": "/css/about.28858b87.css"
   },
   {
-    "revision": "b6f5fb6e44c0f1f71ab2",
-    "url": "/css/app.24470b68.css"
+    "revision": "80b36990cb6b33d217bc",
+    "url": "/css/app.afcef16c.css"
   },
   {
     "revision": "fac10ae1b85997b9ddf3",
@@ -24,16 +24,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/Inter-SemiBold.a2c4e882.ttf"
   },
   {
-    "revision": "899c3edbbf04214ce967817a68dd1bb2",
+    "revision": "ccbc02f78b91aea690a17ede7fb9f6f0",
+    "url": "/img/logo2.ccbc02f7.png"
+  },
+  {
+    "revision": "476b7748eb61440996099a38614aface",
+    "url": "/img/malumot.476b7748.png"
+  },
+  {
+    "revision": "735ae3a2b2739cfc3b831d87974b3149",
     "url": "/index.html"
   },
   {
-    "revision": "68c38a7eca793c0ae2c5",
-    "url": "/js/about.7cf4211a.js"
+    "revision": "71789f393464461c442e",
+    "url": "/js/about.5901529f.js"
   },
   {
-    "revision": "b6f5fb6e44c0f1f71ab2",
-    "url": "/js/app.c44b674c.js"
+    "revision": "80b36990cb6b33d217bc",
+    "url": "/js/app.dbf49287.js"
   },
   {
     "revision": "fac10ae1b85997b9ddf3",
