@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12d6a6217cdbb0145121",
+    "revision": "68c38a7eca793c0ae2c5",
     "url": "/css/about.28858b87.css"
   },
   {
-    "revision": "f1b7df2668d3403810ae",
+    "revision": "b6f5fb6e44c0f1f71ab2",
     "url": "/css/app.24470b68.css"
   },
   {
@@ -24,20 +24,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/Inter-SemiBold.a2c4e882.ttf"
   },
   {
-    "revision": "2736d3933f2182ae760a85f8cfc70065",
-    "url": "/img/logosport.2736d393.png"
-  },
-  {
-    "revision": "8118b9ea4f5e60c2b4206c506b0c09b1",
+    "revision": "899c3edbbf04214ce967817a68dd1bb2",
     "url": "/index.html"
   },
   {
-    "revision": "12d6a6217cdbb0145121",
-    "url": "/js/about.bf626546.js"
+    "revision": "68c38a7eca793c0ae2c5",
+    "url": "/js/about.7cf4211a.js"
   },
   {
-    "revision": "f1b7df2668d3403810ae",
-    "url": "/js/app.c1dcee0a.js"
+    "revision": "b6f5fb6e44c0f1f71ab2",
+    "url": "/js/app.c44b674c.js"
   },
   {
     "revision": "fac10ae1b85997b9ddf3",
