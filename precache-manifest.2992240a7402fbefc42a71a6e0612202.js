@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/about.28858b87.css"
   },
   {
-    "revision": "4146dac71969605a1356",
+    "revision": "cf1c2a03f3f59eae867b",
     "url": "/css/app.c7004a85.css"
   },
   {
@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/malumot.476b7748.png"
   },
   {
-    "revision": "f42fe648056973e8645603f2260cd54d",
+    "revision": "212a5a192b1e776ed96a2ba5f762d9c8",
     "url": "/index.html"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/about.dac27db3.js"
   },
   {
-    "revision": "4146dac71969605a1356",
-    "url": "/js/app.a266e84f.js"
+    "revision": "cf1c2a03f3f59eae867b",
+    "url": "/js/app.1509625e.js"
   },
   {
     "revision": "9984236036db2eb1cfbb",
