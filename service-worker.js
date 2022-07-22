@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a3c7900871caf5aeca8ffef1fc260437.js"
+  "/precache-manifest.28f32ad072d7ca99bb61cfe670aec48c.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "financy"});
+workbox.core.setCacheNameDetails({prefix: "moliya"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
