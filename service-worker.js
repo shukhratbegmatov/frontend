@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.e2835a598d95f3d7dccb34561a18a3f1.js"
+  "/precache-manifest.b1c349f4b268e771355d96cd4fc64819.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "moliya"});
